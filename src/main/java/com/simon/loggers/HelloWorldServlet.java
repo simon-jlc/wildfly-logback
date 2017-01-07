@@ -16,6 +16,7 @@
  */
 package com.simon.loggers;
 
+import com.simon.perf.AppPerfService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -65,5 +66,4 @@ public class HelloWorldServlet extends HttpServlet {
         writer.close();
         logger.warn("Web page has been generated.");
     }
-
 }
