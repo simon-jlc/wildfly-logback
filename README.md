@@ -8,6 +8,7 @@ Docs
 * https://docs.jboss.org/author/display/WFLY8/Logging+Configuration
 * https://docs.jboss.org/author/display/WFLY8/JMX+subsystem+configuration
 
+* Launch wildfly with logback.configurationFile
 
 Monitoring
 ----------
